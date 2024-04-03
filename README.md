@@ -1,6 +1,10 @@
 # Airport Traffic Network Analysis
 This project analyzes U.S. airport traffic data, focusing on the year 2008. It constructs a network graph representing the flow of passengers between airports, with nodes as airports and edges as passenger flows. The analysis involves cleaning the data, building the network graph using NetworkX, and visualizing it with Gephi.
 
+## Complimentary Medium Post
+Here is a link to my Medium post describing my processes and the insights that can be drawn from it: <br /> 
+https://medium.com/inst414-data-science-tech/us-airports-analysis-6a95148234a5
+
 ## Repository Structure
 ### /scripts: Contains the Python script for data cleaning, network graph construction, and export
 - Python File: airport_analysis.py
